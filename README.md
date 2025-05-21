@@ -8,19 +8,18 @@ Projeto para extrair dados de CNAEs a partir de dois arquivos PDF, processar e i
 
 ## ⚙️ Funcionalidades
 
-- Leitura de dados CNAE de PDFs.
-- Processamento e limpeza dos dados extraídos.
-- Inserção dos dados em banco PostgreSQL.
-- Consulta e validação dos registros inseridos.
+- 📥 Leitura de dados CNAE de PDFs
+- 🧹 Processamento e limpeza dos dados extraídos
+- 🗄️ Inserção dos dados em banco PostgreSQL
+- 🔍 Consulta e validação dos registros inseridos
 
 ---
 
-## 🛠 Tecnologias
+## 🛠️ Tecnologias
 
-- Node.js
-- PostgreSQL
+- `Node.js`
+- `PostgreSQL`
 - Bibliotecas[`pdf-parse`, `fs`, `pdf-uuid`, `pg`, `dotenv`, `path`]
-
 
 ---
 
