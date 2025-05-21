@@ -91,7 +91,7 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 ## 👨‍💻 Autor
 
 **Gustavo Cescon**  
-Desenvolvedor Fullstack JavaScript apaixonado por tecnologia, com foco em criar soluções eficientes, escaláveis e bem estruturadas.
+Desenvolvedor Fullstack apaixonado por tecnologia, com foco em criar soluções eficientes, escaláveis e bem estruturadas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoCescon-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-cescon/)
 
